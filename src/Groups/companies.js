@@ -30,7 +30,7 @@ function Companies() {
 
   const { showImageNow, showImageId } = showImage;
 
-  const [showTable, setShowTable] = useState(false);
+  //const [showTable, setShowTable] = useState(false);
 
   const OpenImage = (a) => {
     setOpen(a.image);

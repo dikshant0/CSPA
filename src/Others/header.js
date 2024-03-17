@@ -3,11 +3,11 @@ import React from 'react';
 // import About from './about';
 
 function Header(prop) {
-    function position() {
-        if(window.innerWidth < 576)
-            return "bottom";
-        return "left";
-    }
+    // function position() {
+    //     if(window.innerWidth < 576)
+    //         return "bottom";
+    //     return "left";
+    // }
 
     return (
         <nav className="navbar navbar-expand-sm navbar-dark bg-custom shadow">

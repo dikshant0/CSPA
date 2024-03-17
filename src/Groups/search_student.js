@@ -180,7 +180,7 @@ import Header from '../Others/header';
 import Title from '../Others/heading';
 
 function Search_Student() {
-  const [contacts, setContacts] = useState(data);
+  const [contacts] = useState(data);
   const [search, setSearch] = useState('');
   const [searchClicked, setSearchClicked] = useState(false); // Flag to track whether search button is clicked
 
