@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.8abf34bc.chunk.js",
+    "main.js.map": "/static/js/main.8abf34bc.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.7f1403ef.chunk.css": "/static/css/2.7f1403ef.chunk.css",
+    "static/js/2.f24c179c.chunk.js": "/static/js/2.f24c179c.chunk.js",
+    "static/js/2.f24c179c.chunk.js.map": "/static/js/2.f24c179c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9c5dfbc69814bb3cf18107fed30dc93f.js": "/precache-manifest.9c5dfbc69814bb3cf18107fed30dc93f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7f1403ef.chunk.css.map": "/static/css/2.7f1403ef.chunk.css.map",
+    "static/media/Gender.png": "/static/media/Gender.15324564.png",
+    "static/media/Gender_Trends.png": "/static/media/Gender_Trends.71b7e1eb.png",
+    "static/media/Geographic.png": "/static/media/Geographic.b459fdef.png",
+    "static/media/Geographics_trend.png": "/static/media/Geographics_trend.7c817aa5.png",
+    "static/media/Linear1.PNG": "/static/media/Linear1.ab216c02.PNG",
+    "static/media/Linear2.PNG": "/static/media/Linear2.0966b676.PNG",
+    "static/media/Logistic1.png": "/static/media/Logistic1.297f7cb6.png",
+    "static/media/Logistic2.png": "/static/media/Logistic2.3a250dcf.png",
+    "static/media/RandomForest.png": "/static/media/RandomForest.9940530b.png",
+    "static/media/TimeSeries1.png": "/static/media/TimeSeries1.3971c7b9.png",
+    "static/media/TimeSeries2.png": "/static/media/TimeSeries2.3bd8736f.png"
+  }
+}
