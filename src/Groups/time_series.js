@@ -17,7 +17,7 @@ const imgArr = [
   {
     id: 'Analysis',
     image: img6,
-    caption: ''
+    caption: 'R square is 0.7291666666666667'
   },
   // {
   //   id: 'Comparison between Model-I and Model-II',
@@ -58,7 +58,7 @@ return (
           {showImageNow && showImageId === a.id ? (
             <div>
               <img src={open} alt={a.id} />
-              <p className="caption">{a.caption}</p>
+              <p className="caption, Formula" style={{textAlign: "center"}}>{a.caption}</p>
             </div>
           ) : null}
         </div>

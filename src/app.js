@@ -38,6 +38,7 @@ function App() {
                     <Route path="/Linear" component={Companies} />
                     <Private path="/Linear" component={Companies} />
                     <Route path="/register" component={Register} />
+                    <Route path="/home" component={Dashboard} />
                     <Private path="/home" component={Dashboard} />
                     {/* <Private path="/home" component={ABC} /> */}
                     <Route path="/Logistic" component={Logistic_Func} />

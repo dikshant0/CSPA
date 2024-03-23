@@ -161,13 +161,8 @@ return (
         </tr>
         <tr>
           <td>Decision Boundary</td>
-          <td>Transition around a specific exam score</td>
-          <td>Transition around a specific exam score</td>
-        </tr>
-        <tr>
-          <td>Confidence Interval</td>
-          <td>Assessment required</td>
-          <td>Assessment required</td>
+          <td>Transition around a specific exam score is 48</td>
+          <td>Transition around a specific exam score is 50</td>
         </tr>
       </tbody>
           </Table>
@@ -194,12 +189,12 @@ return (
           <td className="Formula">0.861</td>
           <td className="Formula">0.883</td>
         </tr>
-        <tr>
+        {/* <tr>
           <td>Confusion Matrix</td>
           <td></td>
           <td></td>
-        </tr>
-        {/* <tr>
+        </tr> 
+        <tr>
           <td></td>
           <td>Model 1</td>
           <td>Model 2</td>

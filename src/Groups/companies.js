@@ -149,7 +149,7 @@ function Companies() {
           <div style={{ textAlign: "justify", margin: "20px" }}>
             {/* Insert Text for Model-I Analysis */}
             <p><b>R-squared value:</b>The R-squared value is 0.881, indicating that approximately 88.1% of the variance in the dependent variable (Marks Scored) is explained by the independent variable (Study Hours). This suggests that the model provides a moderately good fit to the data.</p>
-            <p><b>Mean Squared Error (MSE): </b>The MSE is 148.437. This means, on average, the squared difference between the actual and predicted Marks Scored is 148.437. It gives a measure of the average squared deviation of predictions from the actual observations.</p>
+            <p><b>Mean Squared Error (MSE): </b>The MSE is 48.437. This means, on average, the squared difference between the actual and predicted Marks Scored is 148.437. It gives a measure of the average squared deviation of predictions from the actual observations.</p>
             <p><b>Root Mean Squared Error (RMSE):</b> The RMSE is approximately 12.187. This indicates the average deviation of the predicted Marks Scored from the actual Marks Scored is around 12.187.</p>
             <p><b>In summary, </b>Model 1 provides a reasonably good fit to the data, with around 88.1% of the variance explained by the independent variable. However, there is still room for improvement in reducing the prediction errors, as indicated by the MSE and RMSE values.
 Trained using OLS – ordinary least squares, straightforward and easy to implement, it provides accurate estimates of the coefficients and their significance values.

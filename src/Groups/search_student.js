@@ -176,8 +176,8 @@ import InputGroup from 'react-bootstrap/InputGroup';
 import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { data } from './data.js';
-import Header from '../Others/header';
-import Title from '../Others/heading';
+// import Header from '../Others/header';
+// import Title from '../Others/heading';
 
 function Search_Student() {
   const [contacts] = useState(data);
@@ -196,9 +196,9 @@ function Search_Student() {
 
   return (
     <div>
-      <Header link={"home"} current={"Companies"} profile={true} leftbar={true} />
+      {/* <Header link={"home"} current={"Companies"} profile={true} leftbar={true} />
       <div className="container-fluid text-center" />
-      <Title title="Comprehensive Student Performance Analysis" />
+      <Title title="Comprehensive Student Performance Analysis" /> */}
 
       <Container>
         <h1 className='text-center mt-4'>Student Search</h1>
@@ -209,11 +209,14 @@ function Search_Student() {
               onBlur={handleBlur} // Reset searchClicked on blur
               placeholder='Search Student'
             />
-            <InputGroup.Append>
-              <Button variant="primary" onClick={handleSearchClick}>Search</Button>
-            </InputGroup.Append>
+            {/* <InputGroup.Append> */}
+            {/* </InputGroup.Append> */}
           </InputGroup>
+          <div style={{ display: "flex", justifyContent: "center"}}>
+          <Button variant="primary" onClick={handleSearchClick} style={{ borderRadius: '20px'}}>Search</Button>
+          </div>
         </Form>
+        <br></br>
         <Table striped bordered hover>
           <thead>
             <tr className='table_work'>
