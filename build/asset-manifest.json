@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/cspa/static/js/main.8399f7bc.chunk.js",
+    "main.js.map": "/cspa/static/js/main.8399f7bc.chunk.js.map",
+    "runtime~main.js": "/cspa/static/js/runtime~main.64182f5e.js",
+    "runtime~main.js.map": "/cspa/static/js/runtime~main.64182f5e.js.map",
+    "static/css/2.7f1403ef.chunk.css": "/cspa/static/css/2.7f1403ef.chunk.css",
+    "static/js/2.eac4cfd2.chunk.js": "/cspa/static/js/2.eac4cfd2.chunk.js",
+    "static/js/2.eac4cfd2.chunk.js.map": "/cspa/static/js/2.eac4cfd2.chunk.js.map",
+    "index.html": "/cspa/index.html",
+    "precache-manifest.c4c9ca32388845837a22788d34e7f28d.js": "/cspa/precache-manifest.c4c9ca32388845837a22788d34e7f28d.js",
+    "service-worker.js": "/cspa/service-worker.js",
+    "static/css/2.7f1403ef.chunk.css.map": "/cspa/static/css/2.7f1403ef.chunk.css.map",
+    "static/media/Gender.png": "/cspa/static/media/Gender.15324564.png",
+    "static/media/Gender_Trends.png": "/cspa/static/media/Gender_Trends.71b7e1eb.png",
+    "static/media/Geographic.png": "/cspa/static/media/Geographic.b459fdef.png",
+    "static/media/Geographics_trend.png": "/cspa/static/media/Geographics_trend.7c817aa5.png",
+    "static/media/Linear1.PNG": "/cspa/static/media/Linear1.ab216c02.PNG",
+    "static/media/Linear2.PNG": "/cspa/static/media/Linear2.0966b676.PNG",
+    "static/media/Logistic1.png": "/cspa/static/media/Logistic1.297f7cb6.png",
+    "static/media/Logistic2.png": "/cspa/static/media/Logistic2.3a250dcf.png",
+    "static/media/RandomForest.png": "/cspa/static/media/RandomForest.9940530b.png",
+    "static/media/TimeSeries1.png": "/cspa/static/media/TimeSeries1.3971c7b9.png",
+    "static/media/TimeSeries2.png": "/cspa/static/media/TimeSeries2.3bd8736f.png"
+  }
+}
