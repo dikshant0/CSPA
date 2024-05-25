@@ -7,11 +7,11 @@ const Dashboard = () => {
   return (
     <div>
     <Header link={"home"} current={"Companies"} profile={true} leftbar={true} />
-    <Title title="Comprehensive Student Performance Analysis" />
+    <Title title="Comprehensive Student Performance Analytics" />
     <Container>
     <p><b>PROBLEM STATEMENT</b></p>
 
-    <p>Current educational analytics systems lack the ability to provide a comprehensive
+    <p style={{textAlign: 'justify'}}>Current educational analytics systems lack the ability to provide a comprehensive
 understanding of student performance due to fragmented data sources and limited
 analytics capabilities. The absence of a unified platform inhibits the timely
 identification of at-risk students and hinders personalized interventions. This project

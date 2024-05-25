@@ -40,7 +40,7 @@ return (
   <div>
     <Header link={"home"} current={"Companies"} profile={true} leftbar={true} />
     <div className="container-fluid text-center">
-    <Title title="Comprehensive Student Performance Analysis" />
+    <Title title="Comprehensive Student Performance Analytics" />
     </div>
     {imgArr.map((a, i) => (
       <div key={i}>

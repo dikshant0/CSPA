@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2db3a2e5146a9fc5be97912cd8f985a",
+    "revision": "3fe9a1a8d4ba8b84a06a27dbcd39230d",
     "url": "/cspa/index.html"
   },
   {
-    "revision": "43665f527a94ac4f441f",
+    "revision": "bf51031fd73871125314",
     "url": "/cspa/static/css/2.7f1403ef.chunk.css"
   },
   {
-    "revision": "43665f527a94ac4f441f",
-    "url": "/cspa/static/js/2.eac4cfd2.chunk.js"
+    "revision": "bf51031fd73871125314",
+    "url": "/cspa/static/js/2.415eafda.chunk.js"
   },
   {
-    "revision": "e72d55c8a2e1caeecf39",
-    "url": "/cspa/static/js/main.8399f7bc.chunk.js"
+    "revision": "35f1a3ca561e93b64bcba705f76bd30f",
+    "url": "/cspa/static/js/2.415eafda.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dbf9f8d76dc2c9653f20",
-    "url": "/cspa/static/js/runtime~main.64182f5e.js"
+    "revision": "b647d9cd1f3488b1e033",
+    "url": "/cspa/static/js/main.91c5dcd6.chunk.js"
+  },
+  {
+    "revision": "4f9f90b900c15c5d4b8b",
+    "url": "/cspa/static/js/runtime-main.799cf56d.js"
   },
   {
     "revision": "15324564ff20a412fd6c0f56c9b22d4c",
